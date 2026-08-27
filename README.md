@@ -56,7 +56,7 @@ python train.py --config configs/cifar10_dirichlet_0.5.yaml --epochs 100
 If you use this work in your research, please cite our paper:
 
 ```bibtex
-@article{Mahir2026DGBLEND,
+@article{2026DGBLEND,
   title={DG-BLEND: Dynamic Global-Local Foundation Model Fusion for Federated Learning},
   author={Hossain, Mahir},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
