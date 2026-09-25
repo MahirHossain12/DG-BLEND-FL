@@ -58,7 +58,7 @@ If you use this work in your research, please cite our paper:
 ```bibtex
 @article{2026DGBLEND,
   title={DG-BLEND: Dynamic Global-Local Foundation Model Fusion for Federated Learning},
-  author={Hossain, Mahir},
+  author={XXXXXX},
   journal={arXiv preprint arXiv:XXXX.XXXXX},
   year={2026}
 }
